@@ -15,7 +15,7 @@ The pipeline includes preprocessing of video data into efficient `.npy` format, 
 📦 Pretrained Model (Kaggle)
 
 🔗 **Download Best Model (.pt):**
-[https://kaggle.com/your-username/your-model-link](https://www.kaggle.com/datasets/aryanchoubey4842/trained-model-for-lrw-dataset)
+[https://kaggle.com/model-link](https://www.kaggle.com/datasets/aryanchoubey4842/trained-model-for-lrw-dataset)
 
  Includes trained weights (`best_model.pt`) for direct inference without training.
 
