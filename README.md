@@ -138,7 +138,7 @@ python webcam.py
 
  📄 Project Report
 
-📄 Full report: https://drive.google.com/file/d/1cmgKsHroQiSrLmK9h9OgydfAif-a5lMU/view?usp=sharing
+ Full report: https://drive.google.com/file/d/1cmgKsHroQiSrLmK9h9OgydfAif-a5lMU/view?usp=sharing
 
 ⭐ Support
 
