@@ -143,9 +143,3 @@ python webcam.py
 ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub!
-
-
----
-
-If you want next level:
-I can turn this into a **top-tier GitHub (with badges, demo GIF, setup guide)** — the kind that stands out instantly.
