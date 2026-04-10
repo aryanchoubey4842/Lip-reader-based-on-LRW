@@ -141,5 +141,5 @@ python webcam.py
  Full report: https://drive.google.com/file/d/1cmgKsHroQiSrLmK9h9OgydfAif-a5lMU/view?usp=sharing
 
 ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub!
+       
+If you like this project, give it a ⭐ on GitHub!      
