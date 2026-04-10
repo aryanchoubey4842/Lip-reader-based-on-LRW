@@ -4,7 +4,7 @@ Visual Speech Recognition system that predicts spoken words **only from lip move
 
 📝 Description
 
-This project presents a deep learning-based **Visual Speech Recognition (Lip Reading)** system that predicts spoken words using only lip movements from video, without relying on audio. Built on the **LRW (Lip Reading in the Wild)** dataset, the system combines a **ResNet-18** model for spatial feature extraction with a **Transformer encoder** for temporal sequence modeling across video frames.
+This project presents a deep learning-based **Visual Speech Recognition (Lip Reading)** system that predicts spoken words using only lip movements from video, without relying on audio. Built on the **LRW (Lip Reading in the Wild)** dataset, the system combines a **ResNet-18** model for spatial feature extraction with a **Transformer encoder** for temporal sequence modeling across video frames. 
 
 The pipeline includes preprocessing of video data into efficient `.npy` format, robust training, and a real-time webcam inference module that displays predicted words with confidence scores.
 
