@@ -118,7 +118,7 @@ python webcam.py
 
 * Word-level prediction only
 * No language context
-* Fixed cropping
+* Fixed cropping 
 
 ## 🔮 Future Work
 
